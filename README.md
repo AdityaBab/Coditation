@@ -14,12 +14,3 @@ java -jar Wordle.jar
 ```
 Please make sure that the words.txt file is present in the same directory that your .JAR file is in and that the file has not been modified. Additionally, please make sure that you have not renamed the .JAR file. You will also need to run this .JAR file in a terminal that supports colored text.
 ___
-Works Cited:
-
-Credit for game: https://www.nytimes.com/games/wordle/index.html
-
-Credit for ANSI terminal text colors: https://www.geeksforgeeks.org/how-to-print-colored-text-in-java-console/
-
-Credit for ANSI Escape Code to clear terminal: https://www.delftstack.com/howto/java/java-clear-console/
-___
-[My Digital Business Card](https://card.azamserver.com/)
